@@ -9,3 +9,5 @@
  * cd MAC-IP-Changer
 
  * bash bash mac_ip_changer.sh
+ 
+ ## Enjoy!
