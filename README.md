@@ -11,6 +11,9 @@
  * bash mac_ip_changer.sh
 
 ## How to Use
+
+ * bash mac_ip_changer.sh
+
  * Enter Your Interface Name (eg wlan0, eth0 )
 
 ## Contact Us :-
